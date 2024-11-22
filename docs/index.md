@@ -1,6 +1,3 @@
-# Inter maior do sul
+# Resumo
 
-Pela 34ª rodada do Campeonato Brasileiro, o Internacional venceu o Vasco por 1 a 0, na última quinta-feira (21), em São Januário. Com a vitória, o Colorado ampliou a sequência de invencibilidade na competição, chegando a 15 jogos sem perder.
-
-Para garantir mais uma partida invicta, a equipe gaúcha contou com a bela atuação de Wesley, que marcou o único gol do duelo. Após um primeiro tempo equilibrado, o jogo foi decidido na metade da segunda etapa, aos 65 minutos, quando o atacante colorado finalizou de fora da área, marcando um golaço para garantir o placar favorável ao Inter.
-
+O Sport Club Internacional, mais conhecido como Internacional, e popularmente pelos apelidos de Colorado e Inter de Porto Alegre, é um clube multiesportivo brasileiro com sede na cidade de Porto Alegre, capital do Rio Grande do Sul. Foi fundado em 4 de abril de 1909 pelos irmãos Poppe, com o objetivo de ser uma instituição democrática e sem preconceitos.Tem como suas cores o vermelho e o branco e seus torcedores são conhecidos como colorados.
