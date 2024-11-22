@@ -1,4 +1,4 @@
-site_name: teste
+site_name: Portifolio Daniel Osterkamp
 site_url: 
 theme:
     name: material
@@ -65,7 +65,9 @@ theme:
 
 nav:
     - Introduction:
-        - Welcome: index.md
+        - é os guri: index.md
+    - SCI:
+       - é o inter: SCI/inter.md
 
 markdown_extensions:
     - md_in_html
