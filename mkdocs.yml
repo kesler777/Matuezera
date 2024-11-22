@@ -64,10 +64,17 @@ theme:
           accent: lime
 
 nav:
-    - Introduction:
-        - é os guri: index.md
-    - SCI:
-       - é o inter: SCI/inter.md
+    - Introdução:
+        - Resumo: index.md
+        - Maior do sul: msul.md
+        - Mundial: mundial.md
+    - Ultimos jogos:
+       - Vasco: SCI/inter.md
+       - Fluminense : SCI/flu.md
+       - Criciuma : SCI/cri.md
+       - Flamengo : SCI/fla.md
+       - Atletico MG: SCI/atl.md
+       - Gremio: SCI/gre.md
 
 markdown_extensions:
     - md_in_html
