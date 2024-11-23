@@ -1,5 +1,5 @@
 site_name: TRAPPER MATUÊ
-site_url: 
+site_url: https://kesler777.github.io/Matuezera/
 theme:
     name: material
     markdown_extensions:
@@ -85,5 +85,5 @@ markdown_extensions:
         permalink: "#"
 
 # Configuration
-repo_url: https://github.com/kesler777/cursoextensao.github.io
-repo_name: KESLER PORTFÓLIO
+repo_url: https://github.com/kesler777/Matuezera
+repo_name: Matuezera
