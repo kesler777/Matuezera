@@ -1,4 +1,4 @@
-site_name: teste
+site_name: Kesler Portfólio
 site_url: 
 theme:
     name: material
@@ -51,13 +51,13 @@ theme:
     language: en
     palette:
         # Light Mode
-        - scheme: default
+        - scheme: slate
           toggle:
             icon: material/toggle-switch-off-outline
             name: Switch to dark mode
           accent: orange
         # Dark Mode
-        - scheme: slate
+        - scheme: default
           toggle:
             icon: material/toggle-switch
             name: Switch to light mode
@@ -66,6 +66,8 @@ theme:
 nav:
     - Introduction:
         - Welcome: index.md
+    - Muito Louco:
+        - Tamo Junto: Muito Louco/TMJ.md
 
 markdown_extensions:
     - md_in_html
