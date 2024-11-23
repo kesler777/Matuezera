@@ -1,4 +1,4 @@
-site_name: teste
+site_name: TRAPPER MATUÊ
 site_url: 
 theme:
     name: material
@@ -51,21 +51,25 @@ theme:
     language: en
     palette:
         # Light Mode
-        - scheme: default
+        - scheme: slate
           toggle:
             icon: material/toggle-switch-off-outline
             name: Switch to dark mode
           accent: orange
         # Dark Mode
-        - scheme: slate
+        - scheme: default
           toggle:
             icon: material/toggle-switch
             name: Switch to light mode
           accent: lime
 
 nav:
-    - Introduction:
-        - Welcome: index.md
+    - Introdução:
+        - Matuê: Introdução/Matuê.md
+        - 30PRAUM: Introdução/30PRAUM.md
+    - Álbuns:
+        - Máquina do Tempo: Albuns/MaquinaDoTempo.md
+        - 333: Albuns/333.md
 
 markdown_extensions:
     - md_in_html
@@ -81,5 +85,5 @@ markdown_extensions:
         permalink: "#"
 
 # Configuration
-repo_url: 
-repo_name: 
+repo_url: https://github.com/kesler777/cursoextensao.github.io
+repo_name: KESLER PORTFÓLIO
