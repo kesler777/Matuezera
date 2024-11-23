@@ -1,5 +1,5 @@
 site_name: TRAPPER MATUÊ
-site_url: https://kesler777.github.io/Matuezera
+site_url:
 theme:
     name: material
     markdown_extensions:
@@ -64,12 +64,12 @@ theme:
           accent: lime
 
 nav:
-    - Introdução:
-        - Matuê: Introdução/Matuê.md
-        - 30PRAUM: Introdução/30PRAUM.md
+    - Introdução:    
+        - Matuê: index.md
+        - 30PRAUM: 30PRAUM.md
     - Álbuns:
-        - Máquina do Tempo: Albuns/MaquinaDoTempo.md
-        - 333: Albuns/333.md
+        - Máquina do Tempo: MaquinaDoTempo.md
+        - 333: 333.md
 
 markdown_extensions:
     - md_in_html
@@ -85,5 +85,5 @@ markdown_extensions:
         permalink: "#"
 
 # Configuration
-repo_url: https://github.com/kesler777/Matuezera
-repo_name: Matuezera
+repo_url: 
+repo_name: 
