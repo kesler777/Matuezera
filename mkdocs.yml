@@ -1,4 +1,4 @@
-site_name: Kesler Portfólio
+site_name: TRAPPER MATUÊ
 site_url: 
 theme:
     name: material
@@ -64,10 +64,12 @@ theme:
           accent: lime
 
 nav:
-    - Introduction:
-        - Welcome: index.md
-    - Muito Louco:
-        - Tamo Junto: Muito Louco/TMJ.md
+    - Introdução:
+        - Matuê: Introdução/Matuê.md
+        - 30PRAUM: Introdução/30PRAUM.md
+    - Álbuns:
+        - Máquina do Tempo: Albuns/MaquinaDoTempo.md
+        - 333: Albuns/333.md
 
 markdown_extensions:
     - md_in_html
@@ -83,5 +85,5 @@ markdown_extensions:
         permalink: "#"
 
 # Configuration
-repo_url: 
-repo_name: 
+repo_url: https://github.com/kesler777/cursoextensao.github.io
+repo_name: KESLER PORTFÓLIO
