@@ -1,5 +1,9 @@
 # ÁLBUM MÁQUINA DO TEMPO
 
+![Imagem](fotos/MdT.jpg)
+
+🎵 [**ÁLBUM NO SPOTIFY**](https://open.spotify.com/intl-pt/album/6ehm0SMBBoSxH8oSrFXre6?si=VEskyHaKQtGVQvY--GZMOg)
+
 Máquina do Tempo é o álbum de estreia do trapper, lançado em 10 de setembro de 2020 pela Sony Music e o próprio selo musical de Matuê, a 30PRAUM. O álbum fez história sendo o trabalho com a melhor estreia de todos os tempos no Spotify Brasil, alcançando as primeiras posições da lista de canções mais escutadas na plataforma de streaming no país.
 
 # REPERCUSSÃO
