@@ -1,5 +1,7 @@
 # QUEM É MATUÊ?
 
+![Imagem](fotos/matue.jpg)
+
 Matuê, nome artístico de Matheus Brasileiro Aguiar, é um cantor, compositor e produtor brasileiro nascido em Fortaleza, Ceará. Ele é um dos maiores nomes do trap no Brasil, destacando-se por sua mistura de estilos musicais, letras marcantes e produções de alta qualidade. Sua carreira ganhou projeção em 2017 com o lançamento de músicas como "Anos Luz" e "Celine", e ele consolidou seu sucesso com hits como "Kenny G", "A Morte do Autotune" e "Máquina do Tempo".
 
 Matuê é conhecido por ser um dos pioneiros a popularizar o trap nacional, trazendo uma identidade única ao estilo. Ele também fundou a gravadora 30PRAUM, que impulsiona novos talentos do trap no Brasil. Suas letras frequentemente abordam temas como conquistas pessoais, estilo de vida luxuoso e superação, conectando-se fortemente com o público jovem.
