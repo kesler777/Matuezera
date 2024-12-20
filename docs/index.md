@@ -1,4 +1,4 @@
-# QUEM É MATUÊ?
+# QUEM É O MATUÊ?
 
 ![Imagem](fotos/matue.jpg)
 
